@@ -1,5 +1,4 @@
 # CMPT370 Project - PomoKanban
-
 This is the group project for Team 11 - Lambda.
 It is a kanban board with Pomodoro timer functionality.
 
